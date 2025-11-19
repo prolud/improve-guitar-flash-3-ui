@@ -1,5 +1,5 @@
 # ImproveGuitarFlash3UI
-This repositorie improves and makes the UI of Guitar Flash 3 better. <br/>
+This repository improves and makes the UI of Guitar Flash 3 better. <br/>
 
 Step 1: On your browser, go to your developer tools pressing F12 or click with the right button of your mouse and go to inspect. <br/>
 Step 2: Go to the top side of dev tools and click on the "Source" tab. If it's not there, press 'esc' to see more options. <br/>
